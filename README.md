@@ -19,8 +19,9 @@ Dit project is gebouwd als onderdeel van een BitAcademy opdracht. De focus lag o
 ## 💻 Hoe te bekijken
 1. Open de [Live Demo](https://xxlis.github.io/spaceflight-news-explorer/).
 2. De blogs worden automatisch geladen op de pagina.
-3. **Voor developers**: Druk op `F12` of `Rechtermuisknop > Inspecteren > Console` om de ruwe data-objecten te bekijken, precies zoals geformatteerd voor de opdracht.
+3. **Voor developers**: Druk op `F12` of `Rechtermuisknop > Inspecteren > Console` om de ruwe data-objecten te bekijken.
 
 ## 🚀 Installatie (Lokaal)
 1. Clone deze repository: `git clone https://github.com/xxlis/spaceflight-news-explorer.git`
 2. Open `index.html` in je favoriete browser.
+
